@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+transformers
+torch
+streamlit
+requests
+google-generativeai
+huggingface_hub
+
+huggingface_hub[hf_xet]
